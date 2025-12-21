@@ -16,7 +16,10 @@ This project works with sales data from a food company "Roger's Ultimate Cafe" a
 The dataset consisted of 10,001 order transactions of products purchased per day at Roger's Ultimate Cafe. This included the Item, Quantity, Price of the item, Total spent, Method of payment and Method of Acquistion. I used Excel to clean, analyze and visualize the data as it allowed me efficiently calculate the revenue specific products were bringing in per day and how much revenue the shop was generating per month.
 
 <h2>Data Cleaning walk-through:</h2>
-1.First,  of my analysis by clearing outliers within the dataset, allowing me to create an accurate representation of revenue generated per order transaction. This ultimatly allows me to visualize the data to view the sales trends for The Urban Palate Group.
+1. Before starting the cleaning process, I created a new sheet labeled "Cleaned_Cafe_Sales"
+to clean the raw data while keeping the keep the raw data intact in a separate sheet labled "Dirty_Cafe_Sales".
+
+of my analysis by clearing outliers within the dataset, allowing me to create an accurate representation of revenue generated per order transaction. This ultimatly allows me to visualize the data to view the sales trends for The Urban Palate Group.
 
 
 <h2>Data Analysis & Visualization:</h2>
