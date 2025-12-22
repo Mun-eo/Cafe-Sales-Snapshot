@@ -15,12 +15,17 @@ This project works with sales data from a food company "Roger's Ultimate Cafe" a
 <h2>Understanding the dataset:</h2>
 The dataset consisted of 10,001 order transactions of products purchased per day at Roger's Ultimate Cafe. This included the Item, Quantity, Price of the item, Total spent, Method of payment and Method of Acquistion. I used Excel to clean, analyze and visualize the data as it allowed me efficiently calculate the revenue specific products were bringing in per day and how much revenue the shop was generating per month.
 
+
 <h2>Data Cleaning walk-through:</h2>
+
 1. Before starting the cleaning process, I created a new sheet labeled "Cleaned_Cafe_Sales"
 to clean the raw data while keeping the keep the raw data intact in a separate sheet labled "Dirty_Cafe_Sales".
-
-of my analysis by clearing outliers within the dataset, allowing me to create an accurate representation of revenue generated per order transaction. This ultimatly allows me to visualize the data to view the sales trends for The Urban Palate Group.
-
+2. Noticed there were blanks, missing values labled "ERROR" for the item, quantity, price per unit, total spent, payment method, location and transaction date columns. Decided to first transform the blanks and "ERROR" in the item column into the accurate item name for the recorded transaction data using the IFS() function to correlate the unknown values in the item column with the price per unit that matched that specifc item. Example: Coffee = $2 and Cookie = $1, IFS(B:B = 2, "Coffee", B:B = 1, "Cookie").
+3. Then transformed the blanks and "ERROR" in the Quantity column into the accurate quantity utilizing the function ([@Revenue]/[@Price per unit]) to obtain the accurate quantity purchased in each transaction.
+4.Moved onto using the Find and Replace fucntion to replace the "Error" Values in the price per unit column ensuring that each item had their respective item prince. Unfortunally 4 items had the same item price so items that weren't able to be deduced from the quanity and revenue generated for that order were removed from the dataset instead of choosing random items for unknown prices. This was to ensure that the values needed for insights were fair and consistent.
+5. Whats the average revenue per month?
+6. What acquistion method do customers prefer?
+7. What payment method do customers prefer?
 
 <h2>Data Analysis & Visualization:</h2>
 <p align="center">
