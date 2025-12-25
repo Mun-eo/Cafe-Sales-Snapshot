@@ -35,7 +35,7 @@ Analysis of 9,424 order transactions from January 2023 to December 2023 using a 
 <p align="center">
   <img width="316" height="73" alt="Year 1 Sales" src="https://github.com/user-attachments/assets/f9e1cf6c-a710-4497-b44d-e2a32f1a06f3" />
   <br />
-  <img width="648" height="651" alt="Bar chart of Items copy" src="https://github.com/user-attachments/assets/5a5e1c69-b8f4-47ee-a4a0-333cb83aefe0" />
+  <img width="649" height="649" alt="Screenshot 2025-12-25 at 2 25 52 PM" src="https://github.com/user-attachments/assets/cbab1540-c477-4579-8cbd-90375e7f31fb" />
 </p>
 
 <p align="center">
