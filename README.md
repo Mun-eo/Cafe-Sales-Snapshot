@@ -28,7 +28,7 @@ to clean the raw data while keeping the keep the raw data intact in a separate s
 
 <h2>Data Analysis & Visualization:</h2>
 <p align="center">
-IDENTIFYING CUSTOMER TRENDS AND BOTTLENECKS <br/>
+IDENTIFYING CUSTOMER ITEM PREFERENCES AND POTENTIAL BOTTLENECKS <br/>
 
 Analysis of 9,424 order transactions from January 2023 to December 2023 using a visualizational model reveals findings on customer preferences. Among items offered by Roger's Ultimate Cafe, customers typically prefer to order Coffee, Salads, and Cookies. Howeever, the items that generate the most revenue for the cafe are salads, sandwiches and smoothies makimg up 55% of the items that generate revenue. This showcases that the cafe is performing well in its first year but also shows a weakness in revenue with half of the generated revenue held by the performance of three items out of eight.
 
@@ -38,6 +38,11 @@ Analysis of 9,424 order transactions from January 2023 to December 2023 using a 
   <img width="648" height="651" alt="Bar chart of Items copy" src="https://github.com/user-attachments/assets/5a5e1c69-b8f4-47ee-a4a0-333cb83aefe0" />
 </p>
 
+<p align="center">
+IDENTIFYING CUSTOMER PREFERED PAYMENT AND ACQUISITION METHOD <br/>
 
-  
+
+
+  <img width="867" height="306" alt="Customer Preferences" src="https://github.com/user-attachments/assets/e5b61ccf-2359-4808-9102-ed6306d7165f" />
+
 
