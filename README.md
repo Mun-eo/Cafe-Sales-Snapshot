@@ -41,7 +41,7 @@ Analysis of **9,424** order transactions from January 2023 to December 2023 usin
 <p align="center">
 IDENTIFYING CUSTOMER PREFERED PAYMENT AND ACQUISITION METHOD <br/>
   
-When analyzing customer payment and acquistion methods, insights drawn suggest that customers prefer  delivery when acquiring their orders as delivery accounts for** 40%** of the order acquisition. Further insights showcase that customer's prefer to utlize other methods of payment as this accoutnts for **32%** of payment methods versues typical methods of payment such as digital wallet, credit card and cash. However, this is heavily influnced by unknown data being labeled as other methods instead of being removed from the dataset, so there is bias within this section of analysis.
+When analyzing customer payment and acquistion methods, insights drawn suggest that customers prefer  delivery when acquiring their orders as delivery accounts for **40%** of the order acquisition. Further insights showcase that customer's prefer to utlize other methods of payment as this accoutnts for **32%** of payment methods versues typical methods of payment such as digital wallet, credit card and cash. However, this is heavily influnced by unknown data being labeled as other methods instead of being removed from the dataset, so there is bias within this section of analysis.
 
 <p align="center">
   <img width="867" height="306" alt="Customer Preferences" src="https://github.com/user-attachments/assets/e5b61ccf-2359-4808-9102-ed6306d7165f" />
@@ -49,7 +49,7 @@ When analyzing customer payment and acquistion methods, insights drawn suggest t
 <p align="center">
 IDENTIFYING FLUCTUATIONS IN REVENUE
 
-When charting transaction data on a line chart, insights showcase that revenue fluctuates between the range of **$6,000** and **$7,000** with $6,662 being generated on average for this year of performance. Revenue fluctuates on a monthly basis based on the performance of items that generate the most revenue such as Salads, Sandwiches and Smoothies. This showcase that the cafe is doing reasonably well in their first year of opening but has areas of growth to increase revenue.
+When charting transaction data on a line chart, insights showcase that revenue fluctuates between the range of **$6,000** and **$7,000** with **$6,662** being generated on average for this year of performance. Revenue fluctuates on a monthly basis based on the performance of items that generate the most revenue such as Salads, Sandwiches and Smoothies. This showcase that the cafe is doing reasonably well in their first year of opening but has areas of growth to increase revenue.
 
 <p align="center">
   <img width="317" height="75" alt="Average Revenue" src="https://github.com/user-attachments/assets/8d665d8f-4d41-4282-8155-6624ce40ede2" />
@@ -57,3 +57,9 @@ When charting transaction data on a line chart, insights showcase that revenue f
 <img width="868" height="338" alt="Fluctuation in Revenue" src="https://github.com/user-attachments/assets/e5997fa9-cfe8-4090-b0b5-8e483f81f96f" />
 </p>  
 
+<h2>Recomendations</h2>  
+
+1. Utilize self-rated satisfaction such as Job, Environment and Relationship satisfaction data to uncover potential drivers inlfuencing attrition within the Laboratory Technician, Sales Executive, Research Scientist,and Sales Representative roles.
+
+2. Develop a offboarding questionnaire for employees that measures reasons for turnover. This data will be utilized to uncover what is a driving factor for turnover in employees ranging from **28 - 34** years old.
+3. Conduct further research on what's driving retention within the Human Resources department, to implement these retention driving factors into attrition hotspots within the Synthetix Solutions
