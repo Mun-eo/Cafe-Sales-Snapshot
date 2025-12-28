@@ -30,7 +30,7 @@ to clean the raw data while keeping the keep the raw data intact in a separate s
 <p align="center">
 IDENTIFYING CUSTOMER ITEM PREFERENCES AND POTENTIAL BOTTLENECKS <br/>
 
-Analysis of 9,424 order transactions from January 2023 to December 2023 using a visualizational model reveals findings on customer preferences. Among items offered by Roger's Ultimate Cafe, customers typically prefer to order Coffee, Salads, and Cookies. Howeever, the items that generate the most revenue for the cafe are salads, sandwiches and smoothies makimg up 55% of the items that generate revenue. This showcases that the cafe is performing well in its first year but also shows a weakness in revenue with half of the generated revenue held by the performance of three items out of eight.
+Analysis of **9,424** order transactions from January 2023 to December 2023 using a visualizational model reveals findings on customer preferences. Among items offered by Roger's Ultimate Cafe, customers typically prefer to order Coffee, Salads, and Cookies. Howeever, the items that generate the most revenue for the cafe are Salads, Sandwiches and Smoothies makimg up **55%** of the items that generate revenue. This showcases that the cafe is performing well in its first year but also shows a weakness in revenue with half of the generated revenue held by the performance of three items out of eight.
 
 <p align="center">
   <img width="316" height="73" alt="Year 1 Sales" src="https://github.com/user-attachments/assets/f9e1cf6c-a710-4497-b44d-e2a32f1a06f3" />
@@ -40,9 +40,20 @@ Analysis of 9,424 order transactions from January 2023 to December 2023 using a 
 
 <p align="center">
 IDENTIFYING CUSTOMER PREFERED PAYMENT AND ACQUISITION METHOD <br/>
+  
+When analyzing customer payment and acquistion methods, insights drawn suggest that customers prefer  delivery when acquiring their orders as delivery accounts for** 40%** of the order acquisition. Further insights showcase that customer's prefer to utlize other methods of payment as this accoutnts for **32%** of payment methods versues typical methods of payment such as digital wallet, credit card and cash. However, this is heavily influnced by unknown data being labeled as other methods instead of being removed from the dataset, so there is bias within this section of analysis.
 
-
-
+<p align="center">
   <img width="867" height="306" alt="Customer Preferences" src="https://github.com/user-attachments/assets/e5b61ccf-2359-4808-9102-ed6306d7165f" />
 
+<p align="center">
+IDENTIFYING FLUCTUATIONS IN REVENUE
+
+When charting transaction data on a line chart, insights showcase that revenue fluctuates between the range of **$6,000** and **$7,000** with $6,662 being generated on average for this year of performance. Revenue fluctuates on a monthly basis based on the performance of items that generate the most revenue such as Salads, Sandwiches and Smoothies. This showcase that the cafe is doing reasonably well in their first year of opening but has areas of growth to increase revenue.
+
+<p align="center">
+  <img width="317" height="75" alt="Average Revenue" src="https://github.com/user-attachments/assets/8d665d8f-4d41-4282-8155-6624ce40ede2" />
+  <br />
+<img width="868" height="338" alt="Fluctuation in Revenue" src="https://github.com/user-attachments/assets/e5997fa9-cfe8-4090-b0b5-8e483f81f96f" />
+</p>  
 
