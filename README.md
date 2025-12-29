@@ -59,7 +59,7 @@ When charting transaction data on a line chart, insights showcase that revenue f
 
 <h2>Recomendations</h2>  
 
-1. Utilize self-rated satisfaction such as Job, Environment and Relationship satisfaction data to uncover potential drivers inlfuencing attrition within the Laboratory Technician, Sales Executive, Research Scientist,and Sales Representative roles.
+1.a weakness in revenue with half of the generated revenue held by the performance of three items out of eight.
 
 2. Develop a offboarding questionnaire for employees that measures reasons for turnover. This data will be utilized to uncover what is a driving factor for turnover in employees ranging from **28 - 34** years old.
 3. Conduct further research on what's driving retention within the Human Resources department, to implement these retention driving factors into attrition hotspots within the Synthetix Solutions
